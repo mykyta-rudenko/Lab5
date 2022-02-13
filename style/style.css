@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+}
+html,
+body {
+  margin: 0;
+  height: 100%;
+}
+.main {
+  background-color: rgb(186, 250, 250);
+}
+.nav {
+  display: inline-block;
+  vertical-align: top;
+  width: 10%;
+  min-width: 110px;
+}
+.section {
+  display: inline-block;
+  width: 70%;
+  vertical-align: top;
+  padding: 5px;
+}
+.aside {
+  display: inline-block;
+  width: 20%;
+  vertical-align: top;
+}
+.article1,
+.article2 {
+  width: 100%;
+  margin-top: 2%;
+}
+img {
+  width: 350px;
+}

@@ -1,0 +1,9 @@
+header,
+footer {
+  background-color: rgb(1, 18, 77);
+  text-align: center;
+  height: 5%;
+}
+b {
+  color: aliceblue;
+}
